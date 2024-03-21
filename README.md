@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/84177086/211191693-ea7989d8-e201-4d2a-
 
 ### Clone the repository
 ```
-$ git clone https://github.com/anjupriya-v/current-location-tracker.git
+$ git clone https://github.com/vrabieiev/current-location-tracker.git
 ```
 ### Redirect to the cloned repo directory
 
